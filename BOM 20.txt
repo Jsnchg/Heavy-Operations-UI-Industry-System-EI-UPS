@@ -1,0 +1,72 @@
+Heavy-Operations-UI-Industry-System-EI-UPS
+BOM 20
+
+A. Uninterruptible Power Supply
+1. AC
+2. +BATT
+3. D_Capacitance
+
+B. Offline UPS
+1. AC
+2. NCP730
+3. NMOS x2
+4. NIS3071
+5. Battery
+6. NCP51752
+7. 8080
+8. NCV7340
+9. SWITCH
+10. RPR-0521RS
+11. NCS210
+12. CAT24C64
+13. D_Capacitance
+
+C. Online UPS
+1. AC
+2. NCP730
+3. NMOS x3
+4. Q_NIGBT_CEG
+5. NIS3071
+6. Battery
+7. NCP51752
+8. 8080
+9. NCV7340
+10. RPR-0521RS
+11. NCS210
+12. CAT24C64
+13. D_Capacitance
+
+D. Line-Interactive UOS
+1. AC
+2. NCP730
+3. R
+4. NMOS x2
+5. NIS3071
+6. Battery
+7. NCP51752
+8. 8080
+9. NCV7340
+10. SWITCH
+11. RPR-0521RS
+12. NCS210
+13. CAT24C64
+14. D_Capacitance
+
+Total:
+1. AC x3
+2. NCP730 x3
+3. NMOS x7
+4. NIS3071 x3
+5. Battery x3
+6. NCP51752
+7. 8080 x3
+8. NCV7340 x3
+9. SWITCH x3
+10. RPR-0521RS x3
+11. NCS210 x3
+12. CAT24C64 x3
+13. D_Capacitance x3
+14. R
+
+Note:
+Components 13 and 14 was added to make the project more unique
